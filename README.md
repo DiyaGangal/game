@@ -1,4 +1,4 @@
-Car Dodge Game 🚗
+# Car Dodge Game 🚗
 
 A console-based car dodging game written in C.
 Your goal is to avoid multiple falling obstacles as long as you can!
