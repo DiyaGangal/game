@@ -49,12 +49,12 @@ Supports conio.h and windows.h
 
 Using GCC example:
 
-gcc car_dodge.c -o car_dodge
+gcc game.c -o game
 
 
 To run:
 
-./car_dodge
+./game
 
 # Extra Notes
 
