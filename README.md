@@ -1,10 +1,8 @@
-## Car Dodge Game
+## Obstacle Dodge Game
 
-This is a console-based game written in C. The player controls a car that can move left or right to avoid falling obstacles. As time goes on, the speed increases, making the game more challenging the longer you survive.
+This is a console-based game written in C. The player controls a object that can move left or right to avoid falling obstacles. As time goes on, the speed increases, making the game more challenging the longer you survive.
 
 # Improvements in This Version
-
-Compared to the previous single-obstacle version, this upgrade includes:
 
 1. Three obstacles falling at the same time
 
@@ -30,7 +28,7 @@ If an obstacle reaches the bottom in the same lane as the player, the game ends.
 
 When the program starts:
 
-==== CAR DODGE GAME ====
+==== OBSTACLE DODGE GAME ====
 1. Start Game
 2. Quit
 
