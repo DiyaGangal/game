@@ -1,8 +1,8 @@
-## Obstacle Dodge Game
+# Obstacle Dodge Game
 
 This is a console-based game written in C. The player controls a object that can move left or right to avoid falling obstacles. As time goes on, the speed increases, making the game more challenging the longer you survive.
 
-# Improvements in This Version
+## Improvements in This Version
 
 1. Three obstacles falling at the same time
 
@@ -16,7 +16,7 @@ This is a console-based game written in C. The player controls a object that can
 
 6. Cleaner screen drawing and better overall gameplay flow
 
-# Controls
+## Controls
 
 Left Arrow Move left
 
@@ -24,7 +24,7 @@ Right Arrow Move right
 
 If an obstacle reaches the bottom in the same lane as the player, the game ends.
 
-# Menu
+## Menu
 
 When the program starts:
 
@@ -35,7 +35,7 @@ When the program starts:
 
 Press 1 to play or 2 to exit.
 
-# Requirements
+## Requirements
 
 Windows OS
 
@@ -43,20 +43,16 @@ C compiler (GCC, MinGW, or Visual Studio)
 
 Supports conio.h and windows.h
 
-# How to Compile
+## How to compile and run
 
-Using GCC example:
+### Using GCC (on command line)
+1. Open folder
+2. Run the following command
 
-gcc game.c -o game
+```bash
+clang game.c -o prog
+./prog
 
-
-To run:
-
-./game
-
-# Extra Notes
-
-The game uses ASCII characters for visuals and simple logic for animation. You can improve it further by adding a score system, sound effects, more lanes, or different obstacles.
 
 
 
