@@ -50,8 +50,8 @@ Supports conio.h and windows.h
 2. Run the following command
 
 ```bash
-clang game.c -o prog
-./prog
+clang modifiedgame.c -o game
+./game
 
 
 
